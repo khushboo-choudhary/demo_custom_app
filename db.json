@@ -1,0 +1,24 @@
+{
+  "ruleArray": [
+    {
+      "name": "Default Rule",
+      "id": 1
+    }
+  ],
+  "actionArray": [
+    {
+      "action": "START NEW APP",
+      "id": 2
+    }
+  ],
+  "conditionArray": [
+    {
+      "condition": "Urgent",
+      "id": 3
+    },
+    {
+      "condition": "assessment",
+      "id": 4
+    }
+  ]
+}
